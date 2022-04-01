@@ -1,4 +1,31 @@
- <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
+ <p align="center">
+ <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%"><br>
+
+</p>
+
+
+## 📬 Contact Me
+<p align="center">
+	<a href="ali.esmailnejad96@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/ali-esm"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/ali-esmaeilnejad-21138b21b"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	
+</p>
+
+## 🛠 &nbsp;Tech Stack
+
+<p align="center">
+	<a href="python.org"><img src="https://img.shields.io/badge/python-%2314354c.svg?logo=python&logoColor=white&style=flat" alt="Python"/</a>
+	<a href="python.org"><img src="https://img.shields.io/badge/django-%23092e20.svg?logo=django&logoColor=white&style=flat" alt="Django"/</a>
+	<a href="python.org"><img src="https://img.shields.io/badge/flask-%23000000.svg?logo=flask&logoColor=white&style=flat" alt="Flask"/</a>
+	<a href="python.org"><img src="https://img.shields.io/badge/html5-%23e34f26.svg?logo=html5&logoColor=white&style=flat" alt="Html"/</a>
+	<a href="python.org"><img src="https://img.shields.io/badge/css3-%231572b6.svg?logo=css3&logoColor=white&style=flat" alt="Css"/</a>
+	<a href="python.org"><img src="https://img.shields.io/badge/bootstrap-%237952b3.svg?logo=bootstrap&logoColor=white&style=flat" alt="Bootstrap"/</a>
+	<a href="python.org"><img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=flat" alt="javascript"/</a>
+	<a href="python.org"><img src="https://img.shields.io/badge/jquery-%230769ad.svg?logo=jquery&logoColor=white&style=flat" alt="jquery"/</a>
+	<a href="python.org"><img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?logo=mongodb&logoColor=white&style=flat" alt="mongodb"/</a>
+	<a href="python.org"><img src="https://img.shields.io/badge/postgres-%23336791.svg?logo=postgresql&logoColor=white&style=flat" alt="Postgresql"/</a>
+</p>
 
 
 ## 📊 Github Stats
@@ -16,11 +43,3 @@
   </p>
 
 ----
-
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/ali-esm"><img alt="ali-esm's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ali-esm&custom_title=ali-esm's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-
-<br/>
