@@ -1,4 +1,4 @@
-<h2 align="center">Hi , I'm Ali <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+ <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
 
 
 ## 📊 Github Stats
