@@ -42,10 +42,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ali-esm's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ali-esm&show_icons=true&count_private=true&theme=graywhite" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ali-esm's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ali-esm&show_icons=true&count_private=true&theme=graywhite" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-esm&langs_count=10&show_icons=true&locale=en&layout=compact&theme=graywhite" alt="ali-esm" height="130px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ali-esm&langs_count=10&show_icons=true&locale=en&layout=compact&theme=graywhite" alt="ali-esm" height="130px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
